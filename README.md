@@ -1,2 +1,5 @@
-# automl-conf-2022
-Reproducible experiments of the paper "AutoML Competitions: a Meta-Learning Perspective"
+# AutoML Competitions: a Meta-Learning Perspective
+
+### Anonymous authors
+
+Reproducible experiments associated to the submission to [AutoML-Conf 2022](https://automl.cc/).
