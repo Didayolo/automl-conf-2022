@@ -1,1 +1,5 @@
-ranky==0.2.5
+numpy
+pandas
+matplotlib
+tqdm
+ranky==0.2.6
