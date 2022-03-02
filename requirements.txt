@@ -3,4 +3,4 @@ pandas
 matplotlib
 tqdm
 pickle
-ranky==0.2.6
+ranky==0.2.7
