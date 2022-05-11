@@ -1,5 +1,5 @@
-# AutoML Competitions: a Meta-Learning Perspective
+# Reducing the number of participants improves meta-generalization in ML competitions
 
-### Anonymous authors
+### Adrien Pavao, Isabelle Guyon and Zhengying Liu
 
-Reproducible experiments associated to the submission to [AutoML-Conf 2022](https://automl.cc/).
+Reproducible experiments associated to the submission to [ESANN 2022](https://www.esann.org/).
