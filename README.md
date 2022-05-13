@@ -1,4 +1,4 @@
-## Reducing the number of participants improves meta-generalization in ML competitions
+## Filtering participants improves generalization in competitions and benchmarks
 
 #### Adrien Pavao, Isabelle Guyon and Zhengying Liu
 
