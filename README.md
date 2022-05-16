@@ -7,5 +7,5 @@ Reproducible experiments and supplemental material associated to the submission 
 In this repository, you can find:
 - [The notebook](experiments.ipynb) containing the experiments,
 - [The paper](paper.pdf),
-- [The supplemental material](SUPPLEMENTAL_MATERIAL.pdf),
+- [The supplemental material](supplemental_material.pdf),
 - [The data](data/benchmarks) used in the experiments.
