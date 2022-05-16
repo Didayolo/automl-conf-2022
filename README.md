@@ -8,4 +8,4 @@ In this repository, you can find:
 - [The notebook](experiments.ipynb) containing the experiments,
 - [The paper](paper.pdf),
 - [The supplemental material](SUPPLEMENTAL_MATERIAL.pdf),
-- [The data](data) used in the experiments.
+- [The data](data/benchmarks) used in the experiments.
