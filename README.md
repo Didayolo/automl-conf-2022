@@ -2,4 +2,10 @@
 
 #### Adrien Pavao, Isabelle Guyon and Zhengying Liu
 
-Reproducible experiments associated to the submission to [ESANN 2022](https://www.esann.org/).
+Reproducible experiments and supplemental material associated to the submission to [ESANN 2022](https://www.esann.org/).
+
+In this repository, you can find:
+- [The notebook](experiments.ipynb) containing the experiments,
+- [The paper](paper.pdf),
+- [The supplemental material](SUPPLEMENTAL_MATERIAL.pdf),
+- [The data](data) used in the experiments.
