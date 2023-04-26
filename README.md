@@ -12,7 +12,7 @@ In this repository, you can find:
 ## Cite this work (bibtex)
 
 ```
-@inproceedings{pavao:hal-03869648,
+@inproceedings{pavao2022filtering,
   TITLE = {{Filtering participants improves generalization in competitions and benchmarks}},
   AUTHOR = {Pavao, Adrien and Guyon, Isabelle and Liu, Zhengying},
   URL = {https://www.esann.org/sites/default/files/proceedings/2022/ES2022-72.pdf},
