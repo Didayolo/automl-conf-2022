@@ -2,7 +2,7 @@
 
 #### Adrien Pavao, Isabelle Guyon and Zhengying Liu
 
-Reproducible experiments and supplemental material associated to our work, accepted at [ESANN 2022](https://www.esann.org/) and submitted to [Neurocomputing](https://www.sciencedirect.com/journal/neurocomputing).
+Reproducible experiments and supplemental material associated to our work, accepted at [ESANN 2022](https://www.esann.org/).
 
 In this repository, you can find:
 - [The notebook](experiments.ipynb) containing the experiments,
